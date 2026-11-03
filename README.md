@@ -279,5 +279,4 @@ Academic Mentors & Guides
 
 ✨ This project follows professional Django, AI, and Git development practices.
 =======
-# AI- Powered SEO System
->>>>>>> d13eb7b57a11a337268e696ac272379378f0e1c5
+
