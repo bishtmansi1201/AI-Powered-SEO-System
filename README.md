@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 AI-POWERED SEO SYSTEM ⭐
 
 A professional AI-Powered SEO System built using Django and Machine Learning algorithms that analyzes websites for SEO health, keyword optimization, semantic relevance, ranking factors, and technical issues.
@@ -277,3 +278,6 @@ Open-source ML & NLP Libraries
 Academic Mentors & Guides
 
 ✨ This project follows professional Django, AI, and Git development practices.
+=======
+# AI- Powered SEO System
+>>>>>>> d13eb7b57a11a337268e696ac272379378f0e1c5
