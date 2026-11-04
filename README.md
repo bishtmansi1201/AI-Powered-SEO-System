@@ -53,13 +53,8 @@ Unlike standard SEO tools that give you flat lists, NeuroSEO treats your website
 
 ## 💻 Getting Started
 
-### 1. Clone the Neural Link
-```bash
-git clone https://github.com/Xynash/NeuralEngineSEO.git
-cd NeuralEngineSEO
-```
 
-### 2. Initialize Frontend
+### 1. Initialize Frontend
 ```bash 
 cd neural-engine-seo
 ```
@@ -70,7 +65,7 @@ npm install
 npm run dev
 ```
 
-### 3. Initialize Neural Backend
+### 2. Initialize Neural Backend
 ```bash
 
 cd ../backend
